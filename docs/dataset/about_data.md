@@ -56,3 +56,12 @@ python tools/preprocess_data.py \
 About preprocessing, please refer to this blog.
 
 https://tech-blog.abeja.asia/entry/abeja-nedo-project-part2-202405
+
+
+## DataPath
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/39f083f7-f90a-474f-a8c7-4e5d80a82d73" />
+
+All data is divided into 19 files, from common_crawl_0.jsonl to common_crawl_19.jsonl.
+
+Under the ppi_filtered/ directory, there is additional data with enhanced filtering for sensitive personal information.
